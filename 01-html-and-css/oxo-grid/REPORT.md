@@ -9,22 +9,27 @@
 **What is working and what is not?**
 
 <!-- TODO: Fill out this question -->
+Everything is working.
 
 **Was the assignment to hard or to easy? What was too hard or what was too easy**
 
 <!-- TODO: Fill out this question -->
+The hardest part was centering the text inside the cell.
 
 **For what part of the assignment did you need to do some research? (for example Google search)**
 
 <!-- TODO: Fill out this question -->
+for centering the text inside a cell. (vertical was difficult)
 
 **How much time did you approximately spend on this assignment (excluding time of report)?**
 
 <!-- TODO: Fill out this question -->
+30min
 
 **Is there any code you copied from someone else or from the Internet? Provide the source here (author, website, ...). Also explain what you changed to the source code.**
 
 <!-- TODO: Fill out this question -->
+
 
 **Is there a piece of code that you are not satisfied with. Place it here and describe what you think is wrong with it.**
 

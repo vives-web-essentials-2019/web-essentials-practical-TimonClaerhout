@@ -11,16 +11,19 @@
 <!-- TODO: Fill out this question -->
 
 **Was the assignment to hard or to easy? What was too hard or what was too easy**
+Not to hard 
 
 <!-- TODO: Fill out this question -->
 
 **For what part of the assignment did you need to do some research? (for example Google search)**
+For grid span.
 
 <!-- TODO: Fill out this question -->
 
 **How much time did you approximately spend on this assignment (excluding time of report)?**
 
 <!-- TODO: Fill out this question -->
+20min
 
 **Is there any code you copied from someone else or from the Internet? Provide the source here (author, website, ...). Also explain what you changed to the source code.**
 

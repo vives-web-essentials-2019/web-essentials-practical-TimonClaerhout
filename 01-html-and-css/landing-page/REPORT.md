@@ -11,14 +11,18 @@
 <!-- TODO: Fill out this question -->
 
 **Was the assignment to hard or to easy? What was too hard or what was too easy**
+The assignment wasn't that clear I thought I had to make the picture self. Instead I had to copy the picture and centering it.
+vertical centering was a little difficult.
 
 <!-- TODO: Fill out this question -->
 
 **For what part of the assignment did you need to do some research? (for example Google search)**
+vertical positioning.
 
 <!-- TODO: Fill out this question -->
 
 **How much time did you approximately spend on this assignment (excluding time of report)?**
+40min
 
 <!-- TODO: Fill out this question -->
 
@@ -29,6 +33,7 @@
 **Is there a piece of code that you are not satisfied with. Place it here and describe what you think is wrong with it.**
 
 <!-- TODO: Fill out this question -->
+with the vertical positioning it is working but there are better ways I think.
 
 ## Need to knows and remarks
 
