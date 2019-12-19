@@ -18,7 +18,7 @@ header{
       background-color: lightgray;
       padding:5px
   }
-  
+
 aside {
     grid-area: sidebar;
     width: 50px;
