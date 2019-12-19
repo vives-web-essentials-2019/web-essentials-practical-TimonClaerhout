@@ -1,17 +1,17 @@
 # Report
 
-**Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
+**Name**:Timon Claerhout <!-- TODO: fill in your full name here, firstname and lastname -->
 
 ---
 
 <!-- Fill out all the questions below by replacing the TODO comments. Do not remove the other markdown. Make sure to answer EACH question. -->
 
 **What is working and what is not?**
-
+everythign is working exept if I have a lesson of more of 2 hours it does weird.
 <!-- TODO: Fill out this question -->
 
 **Was the assignment to hard or to easy? What was too hard or what was too easy**
-
+medium
 <!-- TODO: Fill out this question -->
 
 **For what part of the assignment did you need to do some research? (for example Google search)**
@@ -19,7 +19,7 @@
 <!-- TODO: Fill out this question -->
 
 **How much time did you approximately spend on this assignment (excluding time of report)?**
-
+30min
 <!-- TODO: Fill out this question -->
 
 **Is there any code you copied from someone else or from the Internet? Provide the source here (author, website, ...). Also explain what you changed to the source code.**

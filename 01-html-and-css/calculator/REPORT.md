@@ -1,23 +1,24 @@
 # Report
 
-**Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
+**Name**:Timon Claerhout <!-- TODO: fill in your full name here, firstname and lastname -->
 
 ---
 
 <!-- Fill out all the questions below by replacing the TODO comments. Do not remove the other markdown. Make sure to answer EACH question. -->
 
 **What is working and what is not?**
+everything is working, only for lessons more than 2 hours I doesn't work.
 
 <!-- TODO: Fill out this question -->
 
 **Was the assignment to hard or to easy? What was too hard or what was too easy**
 Not to hard 
+it was medium
 
 <!-- TODO: Fill out this question -->
 
 **For what part of the assignment did you need to do some research? (for example Google search)**
 For grid span.
-
 <!-- TODO: Fill out this question -->
 
 **How much time did you approximately spend on this assignment (excluding time of report)?**
