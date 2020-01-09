@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    background-color: black;
+    color:white;
+    flex-direction: row;
+    align-self: flex-start;
+}
+.body{
+    display:grid;
+    grid-template-columns: 200px;
+    grid-template-rows: repeat(3, 50px);
+}

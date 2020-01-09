@@ -21,11 +21,11 @@ In order to *[get started](./docs/get-started.md)*, *[commit changes](./docs/com
 Finished | Exercise | Difficulty
 ---------|----------|---------
 :x: | [Boring table](01-html-and-css/simple-table/README.md) | :star:
-:done: | [Landing page](01-html-and-css/landing-page/README.md) | :star:
-:x: | [Simple layout](01-html-and-css/simple-layout/README.md) | :star:
-:done: | [OXO](01-html-and-css/oxo-grid/README.md) | :star:
-:done: | [Popup](01-html-and-css/popup/README.md) | :star:
-:done: | [Class schedule](01-html-and-css/schedule/README.md) | :star::star:
+done | [Landing page](01-html-and-css/landing-page/README.md) | :star:
+done | [Simple layout](01-html-and-css/simple-layout/README.md) | :star:
+done | [OXO](01-html-and-css/oxo-grid/README.md) | :star:
+done | [Popup](01-html-and-css/popup/README.md) | :star:
+done | [Class schedule](01-html-and-css/schedule/README.md) | :star::star:
 :x: | [Topbar icons](01-html-and-css/topbar-icons/README.md) | :star::star:
 :x: | [Price comparison](01-html-and-css/price-comparison/README.md) | :star::star::star:
 :x: | [Card designs](01-html-and-css/card-designs/README.md) | ️️️️️️:star::star::star:
